@@ -1,0 +1,13 @@
+form{
+    padding: 2.5rem;
+}
+#container
+{
+    width: 80%;
+}
+.header h1{
+    text-align: center;
+}
+.header p{
+    text-align: center;
+}
